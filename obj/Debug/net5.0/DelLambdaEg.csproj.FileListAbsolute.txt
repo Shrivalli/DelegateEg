@@ -1,0 +1,16 @@
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\DelLambdaEg.exe
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\DelLambdaEg.deps.json
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\DelLambdaEg.runtimeconfig.json
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\DelLambdaEg.runtimeconfig.dev.json
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\DelLambdaEg.dll
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\ref\DelLambdaEg.dll
+F:\SE Training\DelLambdaEg\bin\Debug\net5.0\DelLambdaEg.pdb
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.csproj.AssemblyReference.cache
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.AssemblyInfoInputs.cache
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.AssemblyInfo.cs
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.csproj.CoreCompileInputs.cache
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.dll
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\ref\DelLambdaEg.dll
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.pdb
+F:\SE Training\DelLambdaEg\obj\Debug\net5.0\DelLambdaEg.genruntimeconfig.cache
